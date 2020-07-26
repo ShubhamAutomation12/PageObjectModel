@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "FREE CRM TEST AUTOMATION">
+<listeners>
+		<listener class-name="com.crm.qa.extentreport.ExtentReportListener" />
+	</listeners>
+<test name = "CRM PRO TEST CASES">
+
+<classes>
+
+<class name = "crmtest.LoginPageTest"></class>
+<class name = "crmtest.HomePageTest"></class>
+<class name = "crmtest.CreateDealTest"></class>
+
+</classes>
+
+</test>
+
+</suite>

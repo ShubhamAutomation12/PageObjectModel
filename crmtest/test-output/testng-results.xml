@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM TEST AUTOMATION" duration-ms="268425" started-at="2020-05-24T08:18:34Z" finished-at="2020-05-24T08:23:03Z">
+    <groups>
+    </groups>
+    <test name="CRM PRO TEST CASES" duration-ms="268425" started-at="2020-05-24T08:18:34Z" finished-at="2020-05-24T08:23:03Z">
+      <class name="crmtest.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:crmtest.LoginPageTest@4883b407]" name="SetUp" is-config="true" duration-ms="8955" started-at="2020-05-24T13:49:57Z" finished-at="2020-05-24T13:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TitleTest()[pri:1, instance:crmtest.LoginPageTest@4883b407]" name="TitleTest" duration-ms="40" started-at="2020-05-24T13:50:06Z" finished-at="2020-05-24T13:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:crmtest.LoginPageTest@4883b407]" name="QuitBrowser" is-config="true" duration-ms="643" started-at="2020-05-24T13:50:06Z" finished-at="2020-05-24T13:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:crmtest.LoginPageTest@4883b407]" name="SetUp" is-config="true" duration-ms="10789" started-at="2020-05-24T13:50:48Z" finished-at="2020-05-24T13:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:2, instance:crmtest.LoginPageTest@4883b407]" name="LoginTest" duration-ms="24776" started-at="2020-05-24T13:50:59Z" finished-at="2020-05-24T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:crmtest.LoginPageTest@4883b407]" name="QuitBrowser" is-config="true" duration-ms="695" started-at="2020-05-24T13:51:24Z" finished-at="2020-05-24T13:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- crmtest.LoginPageTest -->
+      <class name="crmtest.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="setup" is-config="true" duration-ms="30796" started-at="2020-05-24T13:50:07Z" finished-at="2020-05-24T13:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLogoNameTest()[pri:1, instance:crmtest.HomePageTest@7d9d1a19]" name="validateLogoNameTest" duration-ms="10148" started-at="2020-05-24T13:50:38Z" finished-at="2020-05-24T13:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoNameTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="QuitBrowser" is-config="true" duration-ms="637" started-at="2020-05-24T13:50:48Z" finished-at="2020-05-24T13:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="setup" is-config="true" duration-ms="25779" started-at="2020-05-24T13:51:25Z" finished-at="2020-05-24T13:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateUserLabelTest()[pri:2, instance:crmtest.HomePageTest@7d9d1a19]" name="validateUserLabelTest" duration-ms="10161" started-at="2020-05-24T13:51:50Z" finished-at="2020-05-24T13:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserLabelTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="QuitBrowser" is-config="true" duration-ms="678" started-at="2020-05-24T13:52:01Z" finished-at="2020-05-24T13:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="setup" is-config="true" duration-ms="33166" started-at="2020-05-24T13:52:01Z" finished-at="2020-05-24T13:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickDealMenuTest()[pri:3, instance:crmtest.HomePageTest@7d9d1a19]" name="clickDealMenuTest" duration-ms="1537" started-at="2020-05-24T13:52:34Z" finished-at="2020-05-24T13:52:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickDealMenuTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="QuitBrowser" is-config="true" duration-ms="646" started-at="2020-05-24T13:52:36Z" finished-at="2020-05-24T13:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="setup" is-config="true" duration-ms="23739" started-at="2020-05-24T13:52:37Z" finished-at="2020-05-24T13:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickcompaniesMenuTest()[pri:4, instance:crmtest.HomePageTest@7d9d1a19]" name="clickcompaniesMenuTest" duration-ms="1565" started-at="2020-05-24T13:53:00Z" finished-at="2020-05-24T13:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickcompaniesMenuTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:crmtest.HomePageTest@7d9d1a19]" name="QuitBrowser" is-config="true" duration-ms="642" started-at="2020-05-24T13:53:02Z" finished-at="2020-05-24T13:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- crmtest.HomePageTest -->
+      <class name="crmtest.CreateDealTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:crmtest.CreateDealTest@39c0f4a]" name="setup" is-config="true" duration-ms="30382" started-at="2020-05-24T13:48:35Z" finished-at="2020-05-24T13:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addDeal(java.lang.String, java.lang.String)[pri:0, instance:crmtest.CreateDealTest@39c0f4a]" name="addDeal" duration-ms="11224" started-at="2020-05-24T13:49:05Z" data-provider="getData" finished-at="2020-05-24T13:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QWERTY]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QWERTY Pvt Ltd.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeal -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:crmtest.CreateDealTest@39c0f4a]" name="CloseBrowser" is-config="true" duration-ms="613" started-at="2020-05-24T13:49:17Z" finished-at="2020-05-24T13:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:crmtest.CreateDealTest@39c0f4a]" name="setup" is-config="true" duration-ms="28646" started-at="2020-05-24T13:49:17Z" finished-at="2020-05-24T13:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addDeal(java.lang.String, java.lang.String)[pri:0, instance:crmtest.CreateDealTest@39c0f4a]" name="addDeal" duration-ms="10693" started-at="2020-05-24T13:49:46Z" data-provider="getData" finished-at="2020-05-24T13:49:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ASDFGH]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ASDFGH Pvt Ltd.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDeal -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:crmtest.CreateDealTest@39c0f4a]" name="CloseBrowser" is-config="true" duration-ms="628" started-at="2020-05-24T13:49:57Z" finished-at="2020-05-24T13:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- crmtest.CreateDealTest -->
+    </test> <!-- CRM PRO TEST CASES -->
+  </suite> <!-- FREE CRM TEST AUTOMATION -->
+</testng-results>
